@@ -3,9 +3,12 @@ html{
 }
 
 body{
-    display: flexbox;
-    margin: auto;
-    width: 600px;
+    width: 95vh;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 #title{
     width: 512px;
@@ -17,7 +20,7 @@ body{
 }
 
 #menu{
-    margin-left: 130px;
+    margin: 15px;
 }
 
 #botao{
