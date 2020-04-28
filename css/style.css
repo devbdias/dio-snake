@@ -1,0 +1,32 @@
+html{
+    background-color:black;
+}
+
+body{
+    display: flexbox;
+    margin: auto;
+    width: 600px;
+}
+#title{
+    width: 512px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: green;
+
+}
+
+#menu{
+    margin-left: 130px;
+}
+
+#botao{
+    width: 120px;
+    height: 30px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgreen;
+    font-size: 16px;
+    color: red;
+
+}
